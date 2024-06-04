@@ -98,6 +98,18 @@ Ensure you have the following installed on your machine:
 5. **📂 Share Materials**: Faculty can upload and share classroom materials, subject materials, and old question papers with students.
 6. **✏️ Edit/Delete Course**: If you are the course creator, you can edit or delete your courses.
 
+## ScreenShots
+![Screenshot (94)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/3faf955d-acce-4bbd-8472-ffca3e25d055)
+![Screenshot (95)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/be3903a8-757c-4167-a164-a3973a51d0a9)
+![Screenshot (96)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/eaebc9f5-aa25-4d7a-9402-d0437bce048c)
+![Screenshot (97)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/c217aed2-9eb1-4a27-8e83-87325a79e468)
+![Screenshot (98)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/60b6200b-9bdb-44d0-aed9-7b869ddd24b8)
+![Screenshot (99)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/a3955d5c-d3f0-4b13-9ef0-34578656c75d)
+![Screenshot (100)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/63288a47-f210-4d80-9ffc-f36ef639f10e)
+![Screenshot (101)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/ca6dcb54-3a0a-4419-a10a-393fc654596a)
+![Screenshot (102)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/c8860213-2d49-4819-b75d-9b2cab5b5e98)
+![Screenshot (103)](https://github.com/Prathamtamboli2309/RealEState/assets/142076673/d50d141b-3b87-421b-87b1-61781f4b1910)
+
 ## Contributing
 
 Contributions are welcome! Please fork the repository and submit pull requests.
