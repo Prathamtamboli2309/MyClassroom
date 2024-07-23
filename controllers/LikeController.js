@@ -1,7 +1,7 @@
 // LikeController.js
 
 const LikedClass = require("../model/Like");
-const User = require("../model/User");
+const User = require("../model/user");
 const Class = require("../model/Class");
 
 // Controller function to handle adding a like
